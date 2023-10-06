@@ -11,5 +11,7 @@ And also by taking [some ML course projects](https://github.com/Antony-gitau/Mac
 
 I have also finetuned a swahili speech-to-text model and hosted it on Hugging Face together with 2 blogs and an hour-long webinar-like presentation ([all can be found here](https://huggingface.co/AntonyG/fine-tune-wav2vec2-large-xls-r-1b-sw)).
 
-I'm also building deep learning skills in this [probabilistic AI playground](https://github.com/Antony-gitau/probabilistic_AI_playgraound)
+I'm also building deep learning skills in this [probabilistic AI playground](https://github.com/Antony-gitau/probabilistic_AI_playgraound).
+
+The "copy of .." notebooks are part of my learning pytorch by [reproducing this content](https://www.learnpytorch.io/00_pytorch_fundamentals/).
 
