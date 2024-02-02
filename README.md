@@ -1,5 +1,5 @@
 # Machine Learning Playground
-Contains machine learning and data science mini-projects I have done to horn my skills.
+Contains machine learning and data science mini-projects I have done to hone my skills.
 
 I have been deliberately practicing my machine learning skills through mini-projects.
 
@@ -14,4 +14,6 @@ I have also finetuned a swahili speech-to-text model and hosted it on Hugging Fa
 I'm also building deep learning skills in this [probabilistic AI playground](https://github.com/Antony-gitau/probabilistic_AI_playgraound).
 
 The "copy of .." notebooks are part of my learning pytorch by [reproducing this content](https://www.learnpytorch.io/00_pytorch_fundamentals/).
+
+I am reproducing the Vision Transformer paper following a wonderful [tutorial](https://www.learnpytorch.io/08_pytorch_paper_replicating/) and here is my [notebook in progress](https://github.com/Antony-gitau/machine_learning_playground/blob/main/ViT_reproduction.ipynb).
 
